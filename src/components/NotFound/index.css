@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  background-size: cover;
+  padding: 20px;
+  height: 100vh;
+}
+.heading {
+  font-size: 45px;
+  font-family: 'Bree Serif';
+  color: white;
+  font-weight: 500;
+}

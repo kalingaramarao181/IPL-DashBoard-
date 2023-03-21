@@ -1,0 +1,41 @@
+.recent-match-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1e293b;
+  border-radius: 15px;
+  padding: 20px;
+  box-sizing: border-box;
+  width: 20vw;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  height: 500px;
+}
+.recent-match-logo {
+  height: 70px;
+}
+.recent-match-name {
+  text-align: center;
+  color: white;
+  font-family: 'Bree Serif';
+}
+.recent-match-result {
+  text-align: center;
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: white;
+}
+
+.green-color {
+  font-size: 20px;
+  font-family: 'Bree Serif';
+  color: #18ed66;
+  text-align: center;
+}
+.red-color {
+  font-size: 20px;
+  font-family: 'Bree Serif';
+  color: #e31a1a;
+  text-align: center;
+}

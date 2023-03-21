@@ -1,0 +1,23 @@
+.team-matches-container {
+  padding: 30px;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.bg-colorRCB {
+  background-color: #d91c1f;
+}
+
+.match-card-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  flex-wrap: wrap;
+}
+
+.bg-colorKKR {
+  background-color: #5755a7;
+}

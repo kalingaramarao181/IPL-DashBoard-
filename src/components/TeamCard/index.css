@@ -1,0 +1,28 @@
+.team-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: transparent;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-radius: 15px;
+  box-sizing: border-box;
+  width: 45vw;
+  height: 200px;
+  padding: 30px;
+  border: solid #ffffff 1px;
+}
+.team-logo {
+  height: 100px;
+  margin-right: 10px;
+}
+.team-name {
+  color: white;
+  font-family: 'Bree Serif';
+  text-align: center;
+}
+.team-card-item {
+  list-style-type: none;
+  cursor: pointer;
+}
